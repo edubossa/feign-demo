@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno>
+        <email>aluno01@gmail.com</email>
+        <nome>Aluno 01</nome>
+        <rm>31773</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno02@gmail.com</email>
+        <nome>Aluno 02</nome>
+        <rm>34234</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno03@gmail.com</email>
+        <nome>Aluno 03</nome>
+        <rm>32215</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno04@gmail.com</email>
+        <nome>Aluno 04</nome>
+        <rm>36723</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno05@gmail.com</email>
+        <nome>Aluno 05</nome>
+        <rm>38923</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno06@gmail.com</email>
+        <nome>Aluno 06</nome>
+        <rm>34898</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno07@gmail.com</email>
+        <nome>Aluno 07</nome>
+        <rm>38989</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno08@gmail.com</email>
+        <nome>Aluno 08</nome>
+        <rm>38923</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno09@gmail.com</email>
+        <nome>Aluno 09</nome>
+        <rm>34909</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+    <aluno>
+        <email>aluno10@gmail.com</email>
+        <nome>Aluno 10</nome>
+        <rm>32909</rm>
+        <telefone>(011)99999-9999</telefone>
+    </aluno>
+</alunos>
